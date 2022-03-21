@@ -1,5 +1,9 @@
 # ecommerce
 
+## Info
+
+Je n'ai pas eu le temps de représenter visuellement le panier, il se trouve dans la console.
+
 ## Project setup
 ```
 npm install
